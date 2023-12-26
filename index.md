@@ -49,5 +49,5 @@ I am an assistant professor at the [iSchool](https://uwm.edu/informationstudies/
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
 ## News 
-[(See All)](https://github.com/wonchan-choi/wonchan-choi.github.io/blob/7846d611d656f477a783af4b6d642bd830ae02fb/news.md)
+[(See All)](news.md)
 - [2024.01.01] Grand opening of my website! 
