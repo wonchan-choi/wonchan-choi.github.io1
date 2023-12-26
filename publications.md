@@ -3,7 +3,7 @@ title: Publications
 layout: page
 ---
 # Publications
-## Journal & Conference Papers
+## Journal Papers
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [[Full-text]](assets/pubs/2023-IPM-Preprint-WebCred.pdf)  [[ScienceDirect]](https://doi.org/10.1016/j.ipm.2023.103321)
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [[Full-text]](https://acr.comm.or.kr/xml/35042/35042.pdf) 
 - **Choi, W.**, Park, M. S., & Lee, Y. (2022). Associations between mastery of life and everyday life information-seeking behavior among older adults: Analysis of the pew research center’s information engaged and information wary survey data. *Journal of the Association for Information Science & Technology, 73*(3), 393-406. [[Full-text]](assets/pubs/2022-JASIST-Preprint-Mastery-of-Life.pdf) [[ASIS&T DL]](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.24556)
@@ -15,7 +15,8 @@ layout: page
 - **Choi, W.** (2019). Older adults’ health information behavior in everyday life settings. *Library & Information Science Research, 41*(4), 100983. [[ScienceDirect]](https://doi.org/doi:10.1016/j.lisr.2019.100983)
 - **Choi, W.**, Zheng, H., Franklin, P. & Tulu, B. (2019). mHealth technologies for osteoarthritis self-management and treatment: A systematic review. *Health Informatics Journal, 25*(3), 984-1003. [[Full-text]](https://journals.sagepub.com/doi/epub/10.1177/1460458217735676)  [[Sage]](https://doi.org/doi:10.1177/1460458217735676) 
 - Zheng, H., Tulu, B., **Choi, W.**, & Franklin, P. (2017). Using mHealth app to support treatment decision making for knee arthritis: Patient perspective. *eGEMs, 5*(2). [[Full-text]](https://up-j-gemgem.ubiquityjournal.website/articles/10.13063/2327-9214.1284)
-## Refereed Conference Papers & Posters
+
+## Conference Papers & Posters
 - Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.*
 - **Choi, W.**, & Stvilia, B. (2022, March). Developing a theoretical framework for web credibility assessment—A case of social Q&A sites: Preliminary findings. *iConference 2022.* [https://hdl.handle.net/2142/113733](https://hdl.handle.net/2142/113733)
 - Lee, Y., **Choi, W.**, & Park, M. S. (2021, November). Respite service use among dementia and nondementia caregivers: Findings from the caregiving in the U.S. 2015 survey. *Innovation in Aging, 5*(supplement 1). 951. [https://doi.org/10.1093/geroni/igab046.3433](https://doi.org/10.1093/geroni/igab046.3433)
