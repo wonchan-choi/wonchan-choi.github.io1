@@ -1,8 +1,9 @@
 ---
 title: News
-layout: page
+layout: default
 nav_exclude: true
 ---
+
 # News
 Date       | News
 -----------| -----------
