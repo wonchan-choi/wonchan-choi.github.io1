@@ -1,7 +1,7 @@
 ---
-title: News
+title: 
 layout: default
-nav_exclude: true
+#nav_exclude: true
 ---
 
 # News
