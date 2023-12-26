@@ -49,5 +49,5 @@ I am an assistant professor at the [iSchool](https://uwm.edu/informationstudies/
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
 ## News 
-[(See All)](news.md)
+[(See All)](news.html)
 - [2024.01.01] Grand opening of my website! 
