@@ -1,5 +1,7 @@
 ---
 title: News
+layout: default
+nav_exclude: true
 ---
 
 Date    | News
