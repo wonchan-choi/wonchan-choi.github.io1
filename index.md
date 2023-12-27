@@ -6,7 +6,7 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    # background-color: #F5F6FA;
+    # background-color: #0D3C54;
     padding: 20px;
     display: flex;
     align-items: center;
@@ -30,7 +30,7 @@ layout: home
   <div style="flex: 1;">
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
   </div>
-  <div style="flex: 2; padding-left: 20px;">
+  <div style="flex: 2; padding-left: 20px; font-color=white">
     <!-- Your content here -->
     <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
     Assistant Professor <br/>
