@@ -6,7 +6,7 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    background-color: #EFF3F4;
+    #background-color: #EFF3F4;
     padding: 20px;
     display: flex;
     align-items: center;
@@ -34,22 +34,27 @@ layout: home
     <!-- Your content here -->
     <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
     Assistant Professor <br/>
-    School of Information Studies<br/> 
-    University of Wisconsin-Milwaukee<br/>
+    School of Information Studies, University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
     2025 E Newport Ave, Milwaukee, WI 53211<br/>
-    <a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a><br/>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br/>
-    <a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a><br/>
-    <a href="https://twitter.com/wonchan_choi">Twitter</a><br/>
+    <ul>
+    <li><a href="mailto:wchoi@uwm.edu">wchoi@uwm.edu</a></li>
+    <li><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></li>
+    <li><a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a></li>
+    <li><a href="https://twitter.com/wonchan_choi">Twitter</a></li>
+    </ul>
   </div>
 </div>
 
-I am an assistant professor at the [iSchool](https://uwm.edu/informationstudies/), University of Wisconsin-Milwaukee (UWM). My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My current projects focus on:
+## About Me
+I am an assistant professor of [Information Studies at UWM](https://uwm.edu/informationstudies/). I completed my PhD from the [iSchool at Florida State University](https://ischool.cci.fsu.edu/) in 2015. I earned my Bachelor's and Master's desgrees in Library and Information Science from [Pusan National University](https://socio.pusan.ac.kr/socioeng/14014/subview.do) in Korea in 2003 and 2008, respectively. Before joining UWM, I worked as a postdoctoral fellow at the [Business School](https://www.wpi.edu/academics/business), Worcester Polytechnic Institute in Massachussetts from 2015 to 2017.
+
+## Research
+My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My current projects focus on:
 - Credibility assessment of user- and AI-generated content
 - Generative AI literacy in academic settings
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
 ## News 
 [(See All)](https://wonchan-choi.github.io/news.html)
-- [2024.01.01] Grand opening of my website! 
+- [2024-01- 01] The grand opening of the site!
