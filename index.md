@@ -30,7 +30,7 @@ layout: home
   <div style="flex: 1;">
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
   </div>
-  <div style="flex: 2; padding-left: 20px;>
+  <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
     <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
     Assistant Professor <br/>
