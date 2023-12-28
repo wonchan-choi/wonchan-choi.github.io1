@@ -49,7 +49,6 @@ layout: home
 ## About Me
 I am an assistant professor of [Information Studies at UWM](https://uwm.edu/informationstudies/). I completed my PhD from the [iSchool at Florida State University](https://ischool.cci.fsu.edu/) in 2015. I earned my Bachelor's and Master's desgrees in Library and Information Science from [Pusan National University](https://socio.pusan.ac.kr/socioeng/14014/subview.do) in Korea in 2003 and 2008, respectively. Before joining UWM, I worked as a postdoctoral fellow at the [Business School](https://www.wpi.edu/academics/business), Worcester Polytechnic Institute in Massachussetts from 2015 to 2017.
 
-## Research
 My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My current projects focus on:
 - Credibility assessment of user- and AI-generated content
 - Generative AI literacy in academic settings
