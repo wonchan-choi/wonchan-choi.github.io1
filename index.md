@@ -3,11 +3,10 @@ title: Home
 layout: home
 ---
 
-<hr/>
 <style>
   /* Default styles */
   .flex-container {
-    #background-color: #F5F6FA;
+    background-color: #F5F6FA;
     border-color: #F5F6FA;
     padding: 20px;
     display: flex;
@@ -47,7 +46,6 @@ layout: home
     </ul>
   </div>
 </div>
-<hr/>
 
 ## About Me
 I am an assistant professor of [Information Studies at UWM](https://uwm.edu/informationstudies/). Prior to joining UWM, I worked as a postdoctoral fellow at the Business School, [Worcester Polytechnic Institute](https://www.wpi.edu/academics/business) in Massachusetts from 2015 to 2017. I completed a PhD in Information Studies at [Florida State University](https://ischool.cci.fsu.edu/) in 2015. I earned my Bachelor's and Master's desgrees in Library and Information Science from [Pusan National University](https://socio.pusan.ac.kr/socioeng/14014/subview.do), Korea, in 2003 and 2008, respectively.
@@ -59,4 +57,4 @@ My research program involves studies of <b>information behavior</b> and <b>human
 
 ## News 
 [(See All)](https://wonchan-choi.github.io/news.html)
-- [2024-01- 01] The grand opening of the site!
+- [2024-01-01] The grand opening of the site!
