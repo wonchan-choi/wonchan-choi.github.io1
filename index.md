@@ -33,13 +33,13 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
+    <h2>Wonchan Choi, PhD</h2> 
     Assistant Professor <br/>
     School of Information Studies<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
     <ul>
     <li>Office: NWQD 2890</li>
-    <li>Email: wchoi@uwm.edu
+    <li>Email: wchoi@uwm.edu</li>
     <li><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></li>
     <li><a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a></li>
     <li><a href="https://twitter.com/wonchan_choi">Twitter</a></li>
