@@ -6,7 +6,7 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    #background-color: #EFF3F4;
+    background-color: #F5F6FA;
     padding: 20px;
     display: flex;
     align-items: left;
@@ -34,7 +34,8 @@ layout: home
     <!-- Your content here -->
     <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
     Assistant Professor <br/>
-    School of Information Studies, University of Wisconsin-Milwaukee (UWM)<br/>
+    School of Information Studies<br/>
+    University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
     2025 E Newport Ave, Milwaukee, WI 53211<br/>
     <ul>
