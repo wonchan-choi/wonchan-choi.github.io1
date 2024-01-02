@@ -19,6 +19,7 @@ layout: default
 - Yang, K., Lee, J., & **Choi, W.** (2016). Publication and citation patterns of Korean LIS research by subject areas. *Malaysian Journal of Library & Information Science, 21*(2), 67–81. [[Full-text]](https://ejournal.um.edu.my/index.php/MJLIS/article/view/1711/2427)
 - Yang, K., Lee, J., & **Choi, W.** (2015). Looking beyond the numbers: Bibliometric approach to analysis of LIS research in Korea. *Journal of the Korean Society for Library and Information Science, 49*(4), 241–264. [[Full-text]](https://accesson.kr/kslis/assets/pdf/9375/journal-49-4-241.pdf)
 - Stvilia, B., & **Choi, W.** (2015). Mobile wellness application-seeking behavior by college students: An exploratory study. *Library & Information Science Research, 37*(3), 201–208. [[Preprint]](assets/pubs/2015-LISR-Preprint-Health-Apps-Seeking.pdf) [[ScienceDirect]](https://www.sciencedirect.com/science/article/abs/pii/S0740818815000596?via%3Dihub)
+- **Choi, W.**, & Stvilia, B. (2015). Web credibility assessment: Conceptualization, operationalization, variability, and models. *Journal of the Association for Information Science and Technology, 66*(12), 2399–2414. [[Preprint]](assets/pubs/2015-JASIST-Preprint-Web-Credibility) [[ASIST DL]](https://asistdl.onlinelibrary.wiley.com/doi/10.1002/asi.23543)
 
 ## Conference Papers & Posters
 - Lee, H. S., & **Choi, W.** (2023, March). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.*
