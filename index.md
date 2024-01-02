@@ -33,7 +33,7 @@ layout: home
   </div>
   <div style="flex: 2; padding-left: 20px;">
     <!-- Your content here -->
-    <h2>Wonchan Choi, PhD</h2> 
+    <b>Wonchan Choi, PhD</b> (he/him/his)<br/>
     Assistant Professor <br/>
     School of Information Studies<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
