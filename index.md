@@ -35,8 +35,11 @@ layout: home
     Assistant Professor <br/>
     School of Information Studies<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
+    Northwest Quadrant Building, Room 2890
+    2025 E Newport Ave
+    Milwaukee, WI 53211
     <ul>
-    <li>wchoi@uwm.edu</li>
+    <li><a href="mailto=wchoi@uwm.edu">wchoi@uwm.edu</a></li>
     <li><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></li>
     <li><a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a></li>
     <li><a href="https://twitter.com/wonchan_choi">Twitter</a></li>
