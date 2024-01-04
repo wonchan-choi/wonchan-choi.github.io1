@@ -9,7 +9,7 @@ theme: just-the-docs
 
 color_scheme: foo
 
-footer_content: "&copy; 2024 Wonchan Choi. | Last update: January 4, 2024"
+footer_content: "&copy; 2024 Wonchan Choi | Last update: January 4, 2024"
 
 last_edit_timestamp: true
 
