@@ -6,7 +6,6 @@ layout: home
 <style>
   /* Default styles */
   .flex-container {
-    background-color: #F5F6FA;
     border-color: #F5F6FA;
     padding: 20px;
     display: flex;
@@ -38,8 +37,7 @@ layout: home
     School of Information Studies<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
     <ul>
-    <li>Office: NWQD 2890</li>
-    <li>Email: wchoi@uwm.edu</li>
+    <li>wchoi@uwm.edu</li>
     <li><a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a></li>
     <li><a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a></li>
     <li><a href="https://twitter.com/wonchan_choi">Twitter</a></li>
@@ -48,7 +46,7 @@ layout: home
 </div>
 
 ## About Me
-I am an assistant professor of [Information Studies at UWM](https://uwm.edu/informationstudies/). Prior to joining UWM, I worked as a postdoctoral fellow at the Business School, [Worcester Polytechnic Institute](https://www.wpi.edu/academics/business) in Massachusetts from 2015 to 2017. I completed a PhD in Information Studies at [Florida State University](https://ischool.cci.fsu.edu/) in 2015. I earned my Bachelor's and Master's desgrees in Library and Information Science from [Pusan National University](https://socio.pusan.ac.kr/socioeng/14014/subview.do), Korea, in 2003 and 2008, respectively.
+I am an assistant professor of Information Studies at [UWM](https://uwm.edu/informationstudies/). Prior to joining UWM, I worked as a postdoctoral fellow at the Business School, [Worcester Polytechnic Institute](https://www.wpi.edu/academics/business) from 2015 to 2017. I completed a PhD in Information Studies at [Florida State University](https://ischool.cci.fsu.edu/) in 2015. I earned my Bachelor's and Master's desgrees in Library and Information Science from [Pusan National University](https://socio.pusan.ac.kr/socioeng/14014/subview.do), Korea, in 2003 and 2008, respectively.
 
 My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My current projects focus on:
 - Credibility assessment of user- and AI-generated content
