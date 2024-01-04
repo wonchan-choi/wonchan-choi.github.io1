@@ -36,9 +36,9 @@ layout: home
     School of Information Studies<br/>
     University of Wisconsin-Milwaukee<br/>
     Northwest Quadrant Building D 2890<br/>
-    P.O. Box 413<br/>
     2025 E Newport Ave<br/>
-    Milwaukee, WI 53201<br/>
+    P.O. Box 413<br/>
+    Milwaukee, WI 53201-0413<br/>
     <a href="mailto=wchoi@uwm.edu">wchoi@uwm.edu</a><br/>
     <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br/>
     <a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a><br/>
