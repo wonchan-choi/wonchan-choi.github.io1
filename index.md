@@ -34,7 +34,7 @@ layout: home
     <b>Wonchan Choi, PhD</b> (He/Him)<br/>
     Assistant Professor <br/>
     School of Information Studies<br/>
-    University of Wisconsin-Milwaukee<br/>
+    University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
     2025 E Newport Ave<br/>
     P.O. Box 413<br/>
@@ -47,7 +47,7 @@ layout: home
 </div>
 
 ## About Me
-I am an assistant professor of Information Studies at the [University of Wisconsin-Milwaukee](https://uwm.edu/informationstudies/). Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, [Worcester Polytechnic Institute](https://www.wpi.edu/academics/business) from 2015 to 2017. I received my PhD in Information Studies from [Florida State University](https://ischool.cci.fsu.edu/) in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from [Pusan National University](https://socio.pusan.ac.kr/socioeng/14014/subview.do), Korea, in 2003 and 2008, respectively.
+I am an assistant professor of Information Studies at UWM. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
 
 My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My current projects focus on:
 - Credibility assessment of user- and AI-generated content
