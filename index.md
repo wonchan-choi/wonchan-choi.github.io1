@@ -46,6 +46,8 @@ layout: home
   </div>
 </div>
 
+<hr/>
+
 ## About Me
 I am an assistant professor of Information Studies at UWM. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
 
