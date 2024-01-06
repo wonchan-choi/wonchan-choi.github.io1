@@ -9,7 +9,7 @@ nav_order: 2
 - **Funding:** [IMLS Leadership Grants for Libraries Applied Research](https://www.imls.gov/grants/awarded/lg-252289-ols-22) (August 2023–July 2025), $695,631 
 - **Principal investigators:** [**Iris Xie (PI)**](https://uwm.edu/informationstudies/directory/xie-iris/), Professor, iSchool@UWM &#124; **Wonchan Choi (Co-PI)**, Assistant Professor, iSchool@UWM
 - **Description:** This project aims to create mobile digital library accessibility and usability guidelines to support blind and visually impaired users. This project will generate a new framework including a theoretical approach that considers all users’ needs; types of help-seeking situations blind and visually impaired users encounter using mobile digital libraries; limitations of the existing mobile digital library guidelines; mobile digital library accessibility and usability guidelines addressing each situation; current digital libraries compliance status; and methodology to be applied to develop guidelines supporting other underserved groups. The project will help policymakers, researchers, and practitioners understand digital library design problems and enable developers to enhance digital libraries for universal access.
-- **[Project website]**(https://sites.uwm.edu/bvi/imls-mobile/)
+- [**Project website**](https://sites.uwm.edu/bvi/imls-mobile/)
 
 ### Rethinking Digital Literacy in the Age of Generative AI: College Students’ Use of ChatGPT for Educational Purposes
 - **Funding:** [UWM CCEP Research Seed Funding Awards](https://uwm.edu/community-engagement-professions/ccep-announces-research-seed-funding-awards/) (July 2023–June 2024), $6,000
