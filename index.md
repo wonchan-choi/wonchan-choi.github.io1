@@ -7,6 +7,7 @@ nav_order: 1
 <style>
   /* Default styles */
   .flex-container {
+    background-color: #F5F6FA;
     padding: 20px;
     display: flex;
     align-items: left;
