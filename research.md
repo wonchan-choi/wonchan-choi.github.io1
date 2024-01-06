@@ -18,5 +18,11 @@ This project aims to provide initial insights into (a) college students’ perce
 ### Developing a Scale for Credibility Assessment on Interactive Web Platforms
 This project aims to collect preliminary data for the development of a new scale for measuring users’ web credibility perceptions based on the established guidelines for scale development and validation.
 - Funding: UWM Research Assistance Fund (September 2023–June 2024), $2,451
-- Principal investigator: Wonchan Choi (PI), Assistant Professor, iSchool@UWM
+- PI: Wonchan Choi, Assistant Professor, iSchool@UWM
+
+<br/>
+
+| Date         | News                               | 
+|:-------------|:-----------------------------------|
+| 2024-01-01   | The grand opening of this website! |
 
