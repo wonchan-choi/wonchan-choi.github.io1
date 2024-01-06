@@ -20,9 +20,3 @@ This project aims to collect preliminary data for the development of a new scale
 - Funding: UWM Research Assistance Fund (September 2023–June 2024), $2,451
 - PI: Wonchan Choi, Assistant Professor, iSchool@UWM
 
-<br/>
-
-| Date         | News                               | 
-|:-------------|:-----------------------------------|
-| 2024-01-01   | The grand opening of this website! |
-
