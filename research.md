@@ -20,4 +20,23 @@ nav_order: 2
 ### Developing a Scale for Credibility Assessment on Interactive Web Platforms
 - **Funding:** UWM Research Assistance Fund (September 2023–June 2024), $2,451
 - **Principal investigator:** **Wonchan Choi (PI)**, Assistant Professor, iSchool@UWM
-- **Description:** This project aims to collect preliminary data for the development of a new scale for measuring users’ web credibility perceptions based on the established guidelines for scale development and validation. 
+- **Description:** This project aims to collect preliminary data for the development of a new scale for measuring users’ web credibility perceptions based on the established guidelines for scale development and validation.
+
+<hr/>
+
+## Past Projects 
+| Period    | Title                               | Funding                | PI(s)          |
+|:------------------|:----------------------------|:-----------------------|:---------------|
+| Aug 2015–Aug 2017 | TJR-Guru: A mobile app for shared informed decision making in total
+joint replacement surgery | Agency for Healthcare Research and Quality (AHRQ) | Bengisu Tulu, Professor, Business School@WPI |
+
+TJR-Guru: A mobile app for shared informed decision making in total
+joint replacement surgery
+– Funding agency: Agency for Healthcare Research and Quality (AHRQ)
+– Principal investigator (PI): Bengisu Tulu, Ph.D., Worcester Polytechnic Institute
+(WPI) School of Business
+– Working as a postdoctoral fellow to collect and analyze data from the app
+requirements gathering sessions (patient focus groups & clinician interviews) and
+laboratory and field usability testing sessions.
+– Project website: http://tjrapp.wpi.edu/
+
