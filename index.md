@@ -50,7 +50,7 @@ nav_order: 1
 ## About Me
 I am an assistant professor of Information Studies at UWM. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
 
-My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My [current projects](research.md) focus on:
+My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My [current projects](https://github.com/wonchan-choi/wonchan-choi.github.io/blob/cc4a96053f443c8c3304a461e6a9bae5d641ecf8/research.md) focus on:
 - Credibility assessment of user- and AI-generated content
 - Generative AI literacy in academic settings
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
