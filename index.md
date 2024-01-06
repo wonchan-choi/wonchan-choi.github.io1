@@ -39,12 +39,10 @@ nav_order: 1
     University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
     2025 E Newport Ave<br/>
-    P.O. Box 413<br/>
-    Milwaukee, WI 53201-0413<br/>
+    Milwaukee, WI 53211<br/>
     <a href="mailto=wchoi@uwm.edu">wchoi@uwm.edu</a><br/>
     <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br/>
     <a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a><br/>
-    <a href="https://twitter.com/wonchan_choi">Twitter</a><br/>
   </div>
 </div>
 
