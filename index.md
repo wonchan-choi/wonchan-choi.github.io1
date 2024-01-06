@@ -58,6 +58,3 @@ My research program involves studies of <b>information behavior</b> and <b>human
 [(See All)](https://wonchan-choi.github.io/news.html)
 - [2024-01-01] The grand opening of the site!
 
-## Visitors
-<script align="left" type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=92a5ba&w=300&t=m&d=Buia3_aP6HE9HUvnNVOCjl51F8oLJBl4jj6v4tYFxDE&co=ffffff&ct=808080&cmo=3acc3a&cmn=ff5353'></script>
-
