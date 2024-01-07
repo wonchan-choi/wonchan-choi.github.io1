@@ -4,7 +4,7 @@ layout: default
 nav_order: 2
 ---
 # Research Projects
-## Universal Accessibility and Usability of Digital Libraries in the Mobile Environment: Developing Design Guidelines to Support Blind and Visually Impaired Users [Current]{: .label }
+## Universal Accessibility and Usability of Digital Libraries in the Mobile Environment: Developing Design Guidelines to Support Blind and Visually Impaired Users
 This project aims to create mobile digital library accessibility and usability guidelines to support blind and visually impaired users. [[Project website]](https://sites.uwm.edu/bvi/imls-mobile/)
 - Funding: [IMLS Leadership Grants for Libraries - Applied Research](https://www.imls.gov/grants/awarded/lg-252289-ols-22) (August 2023–July 2025), $695,631 
 - PI: [Iris Xie](https://uwm.edu/informationstudies/directory/xie-iris/), Professor, iSchool@UWM &#124; Co-PI: Wonchan Choi, Assistant Professor, iSchool@UWM 
