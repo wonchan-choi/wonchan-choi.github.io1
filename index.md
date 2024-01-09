@@ -5,12 +5,23 @@ nav_order: 1
 ---
 
 <style>
-  /* Default styles */
   .flex-container {
     background-color: #F5F6FA;
     padding: 20px;
     display: flex;
-    align-items: left;
+    align-items: flex-start; /* Align items to the start of the cross axis */
+  }
+
+  .flex-item {
+    padding-left: 20px; /* Add left padding for spacing */
+  }
+
+  .flex-item:first-child {
+    flex: 1; /* Flex item for image */
+  }
+
+  .flex-item:last-child {
+    flex: 2; /* Flex item for text content */
   }
 
   /* Image styles for small screens (up to 767px width) */
@@ -24,18 +35,20 @@ nav_order: 1
       width: 100%; /* Make the image take up the full width */
       margin-bottom: 15px; /* Add some space below the image */
     }
+
+    .flex-item {
+      padding-left: 0; /* Remove left padding on small screens */
+    }
   }
 </style>
 
 <div class="flex-container">
-  <div style="flex: 1;">
-    <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi">
+  <div class="flex-item">
+    <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi" style="max-width: 100%; height: auto;">
   </div>
-  <div style="flex: 2; padding-left: 20px;">
-    <!-- Your content here -->
-    <h2>Wonchan Choi, PhD</h2> 
-    I am an assistant professor of Information Studies at UWM. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
-Assistant Professor <br/>
+  <div class="flex-item">
+    <h1>Wonchan Choi, PhD</h1>
+    Assistant Professor <br/>
     School of Information Studies<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
@@ -47,7 +60,7 @@ Assistant Professor <br/>
   </div>
 </div>
 
-## About Me
+I am an assistant professor of Information Studies at UWM. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
 
 My research program involves studies of **information behavior** and **human-computer interaction**. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My [**current projects**](https://wonchan-choi.github.io/research.html) focus on:
 - Credibility assessment of user- and AI-generated content
