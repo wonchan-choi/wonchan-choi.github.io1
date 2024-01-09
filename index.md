@@ -54,6 +54,14 @@ My research program involves studies of <b>information behavior</b> and <b>human
 - Generative AI literacy in academic settings
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
+## Recent Publications
+[(See All)](https://wonchan-choi.github.io/publications.html)
+- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [[Full-text]](https://www.mdpi.com/2076-3417/13/9/5306)
+- **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [[Full-text]](assets/pubs/2023-IPM-Preprint-WebCred.pdf)
+- **Choi, W.**, Zhang, Y., & Stvilia, B. (2023). Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT. *Proceedings of the Association for Information Science and Technology, 60*(1), 543–546. [[Full-text]](assets/pubs/2023-ASIST-ShortPaper-Preprint-ChatGPT.pdf)
+- **Choi, W.**, & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *Proceedings of the Association for Information Science and Technology, 60*(1), 929–931. [[Full-text]](assets/pubs/2023-ASIST-Poster-Credibility-Scale-Dev.pdf)
+- Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.* [[Full-text]](assets/pubs/2023-iConference-Abstract.pdf)
+
 ## News 
 [(See All)](https://wonchan-choi.github.io/news.html)
 - [2024-01-01] The grand opening of the site!
