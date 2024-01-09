@@ -49,18 +49,10 @@ nav_order: 1
 ## About Me
 I am an assistant professor of Information Studies at UWM. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
 
-My research program involves studies of <b>information behavior</b> and <b>human-computer interaction</b>. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My [current projects](https://wonchan-choi.github.io/research.html) focus on:
+My research program involves studies of **information behavior** and **human-computer interaction**. My research aims to understand the interactions among people, technology, and information in the context of users acquiring necessary information to address various problems encountered during their everyday lives. My **[current projects]**(https://wonchan-choi.github.io/research.html) focus on:
 - Credibility assessment of user- and AI-generated content
 - Generative AI literacy in academic settings
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
-
-## Recent Publications
-[(See All)](https://wonchan-choi.github.io/publications.html)
-- Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [[Full-text]](https://www.mdpi.com/2076-3417/13/9/5306)
-- **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [[Full-text]](assets/pubs/2023-IPM-Preprint-WebCred.pdf)
-- **Choi, W.**, Zhang, Y., & Stvilia, B. (2023). Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT. *Proceedings of the Association for Information Science and Technology, 60*(1), 543–546. [[Full-text]](assets/pubs/2023-ASIST-ShortPaper-Preprint-ChatGPT.pdf)
-- **Choi, W.**, & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *Proceedings of the Association for Information Science and Technology, 60*(1), 929–931. [[Full-text]](assets/pubs/2023-ASIST-Poster-Credibility-Scale-Dev.pdf)
-- Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.* [[Full-text]](assets/pubs/2023-iConference-Abstract.pdf)
 
 ## News 
 [(See All)](https://wonchan-choi.github.io/news.html)
