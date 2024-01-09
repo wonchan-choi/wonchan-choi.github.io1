@@ -36,7 +36,7 @@ nav_order: 1
 
     .flex-container img {
       width: 100%; 
-      margin-bottom: 15px; 
+      #margin-bottom: 15px; 
     }
 
     .flex-item {
@@ -53,7 +53,7 @@ nav_order: 1
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi" style="max-width: 100%; height: auto;">
   </div>
   <div class="flex-item">
-    <h2><b>Wonchan Choi, PhD</b></h2>
+    <h2>Wonchan Choi, PhD</h2>
     Assistant Professor<br/>
     School of Information Studies (iSchool)<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
