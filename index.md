@@ -42,7 +42,7 @@ nav_order: 1
       padding-left: 0; 
       text-align: center;
     }
-    .flex-item h2 {
+    .flex-item h1 {
       text-align: center;
     }
   }
@@ -53,7 +53,7 @@ nav_order: 1
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi" style="max-width: 100%; height: auto;">
   </div>
   <div class="flex-item">
-    <h2>Wonchan Choi, PhD</h2>
+    <h1><b>Wonchan Choi, PhD</b></h1>
     Assistant Professor<br/>
     School of Information Studies (iSchool)<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
