@@ -36,11 +36,11 @@ nav_order: 1
 
     .flex-container img {
       width: 100%; 
-      #margin-bottom: 15px; 
     }
 
     .flex-item {
       padding-left: 0; 
+      text-align: center;
     }
     .flex-item h2 {
       text-align: center;
@@ -60,7 +60,7 @@ nav_order: 1
     Pronouns: He/Him<br/>
 <a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a><br/>
 <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
-<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a><br/>
+#<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a><br/>
 <a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
   </div>
 </div>
