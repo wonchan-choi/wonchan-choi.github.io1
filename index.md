@@ -42,7 +42,7 @@ nav_order: 1
     .flex-item {
       padding-left: 0; 
     }
-    flex-item h1 {
+    .flex-item h2 {
       text-align: center;
     }
   }
@@ -54,12 +54,12 @@ nav_order: 1
   </div>
   <div class="flex-item">
     <h2><b>Wonchan Choi, PhD</b></h2>
-    Assistant Professor
-    School of Information Studies (iSchool)
-    University of Wisconsin-Milwaukee (UWM)
-<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a> &nbsp
-<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &nbsp
-<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a> &nbsp
+    Assistant Professor<br/>
+    School of Information Studies (iSchool)<br/>
+    University of Wisconsin-Milwaukee (UWM)<br/>
+<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a><br/>
+<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
+<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a><br/>
 <a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
   </div>
 </div>
