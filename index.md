@@ -3,25 +3,28 @@ title: Home
 layout: home
 nav_order: 1
 ---
+<head>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
 
 <style>
   .flex-container {
     background-color: #F5F6FA;
     padding: 20px;
     display: flex;
-    align-items: flex-start; /* Align items to the start of the cross axis */
+    align-items: flex-start; 
   }
 
   .flex-item {
-    padding-left: 20px; /* Add left padding for spacing */
+    padding-left: 20px; 
   }
 
   .flex-item:first-child {
-    flex: 1; /* Flex item for image */
+    flex: 1;
   }
 
   .flex-item:last-child {
-    flex: 2; /* Flex item for text content */
+    flex: 2; 
   }
 
   /* Image styles for small screens (up to 767px width) */
@@ -48,15 +51,16 @@ nav_order: 1
   </div>
   <div class="flex-item">
     <h1>Wonchan Choi, PhD</h1>
-    Assistant Professor <br/>
-    School of Information Studies<br/>
-    University of Wisconsin-Milwaukee (UWM)<br/>
-    Northwest Quadrant Building D 2890<br/>
-    2025 E Newport Ave<br/>
-    Milwaukee, WI 53211<br/>
-    <a href="mailto=wchoi@uwm.edu">wchoi@uwm.edu</a><br/>
-    <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en">Google Scholar</a><br/>
-    <a href="https://www.researchgate.net/profile/Wonchan-Choi">ResearchGate</a><br/>
+    I am an assistant professor of Information Studies at UWM. My research program involves studies of information behavior and human-computer interaction. My <a href="https://wonchan-choi.github.io/research.html"><b>current projects</b>b></a> focus on:
+<li>Credibility assessment of user- and AI-generated content</li>
+<li>Generative AI literacy in academic settings</li>
+<li>Usability and accessibility of information retrieval systems for disadvantaged user groups</li>
+
+<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> wchoi@uwm.edu</a><br/>
+
+<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
+
+<a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a><br/>
   </div>
 </div>
 
