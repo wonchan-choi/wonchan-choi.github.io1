@@ -53,16 +53,14 @@ nav_order: 1
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi" style="max-width: 100%; height: auto;">
   </div>
   <div class="flex-item">
-    <h1><b></b>Wonchan Choi, PhD</b></h1>
-    I am an assistant professor of Information Studies at UWM. My research program involves studies of information behavior and human-computer interaction. My <a href="https://wonchan-choi.github.io/research.html"><b>current projects</b></a> focus on:
-<li>Credibility assessment of user- and AI-generated content</li>
-<li>Generative AI literacy in academic settings</li>
-<li>Usability and accessibility of information retrieval systems for disadvantaged user groups</li>
-
-<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> wchoi [AT] uwm [dot] edu</a><br/>
-<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
-<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a><br/>
-<a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a><br/>
+    <h2><b>Wonchan Choi, PhD</b></h2>
+    Assistant Professor
+    School of Information Studies (iSchool)
+    University of Wisconsin-Milwaukee (UWM)
+<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a> &nbsp
+<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a> &nbsp
+<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a> &nbsp
+<a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
   </div>
 </div>
 
