@@ -30,17 +30,20 @@ nav_order: 1
   /* Image styles for small screens (up to 767px width) */
   @media (max-width: 767px) {
     .flex-container {
-      flex-direction: column; /* Stack items vertically */
-      align-items: center; /* Center items horizontally */
+      flex-direction: column; 
+      align-items: center;
     }
 
     .flex-container img {
-      width: 100%; /* Make the image take up the full width */
-      margin-bottom: 15px; /* Add some space below the image */
+      width: 100%; 
+      margin-bottom: 15px; 
     }
 
     .flex-item {
-      padding-left: 0; /* Remove left padding on small screens */
+      padding-left: 0; 
+    }
+    flex-item h1 {
+      text-align: center;
     }
   }
 </style>
@@ -50,16 +53,15 @@ nav_order: 1
     <img src="/assets/images/wchoi_gp_60.png" alt="Wonchan Choi" style="max-width: 100%; height: auto;">
   </div>
   <div class="flex-item">
-    <h1>Wonchan Choi, PhD</h1>
-    I am an assistant professor of Information Studies at UWM. My research program involves studies of information behavior and human-computer interaction. My <a href="https://wonchan-choi.github.io/research.html"><b>current projects</b>b></a> focus on:
+    <h1><b></b>Wonchan Choi, PhD</b></h1>
+    I am an assistant professor of Information Studies at UWM. My research program involves studies of information behavior and human-computer interaction. My <a href="https://wonchan-choi.github.io/research.html"><b>current projects</b></a> focus on:
 <li>Credibility assessment of user- and AI-generated content</li>
 <li>Generative AI literacy in academic settings</li>
 <li>Usability and accessibility of information retrieval systems for disadvantaged user groups</li>
 
-<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> wchoi@uwm.edu</a><br/>
-
+<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> wchoi [AT] uwm [dot] edu</a><br/>
 <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
-
+<a href="https://twitter.com/wonchan_choi"><i class="fab fa-twitter"></i> Twitter</a><br/>
 <a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a><br/>
   </div>
 </div>
