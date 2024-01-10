@@ -58,12 +58,9 @@ nav_order: 1
     School of Information Studies (iSchool)<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
-    2025 E Newport Ave<br/>
-    Milwaukee, WI 53211<br/>
-<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a><br/>
-<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
-<a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
-  </div>
+    2025 E Newport Ave, Milwaukee, WI 53211<br/>
+<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i></a>  <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i></a>
+</div>
 </div>
 
 I am an assistant professor at the UWM iSchool. Prior to joining UWM in 2017, I worked as a postdoctoral fellow at the Business School, Worcester Polytechnic Institute in Massachusetts from 2015 to 2017. I received my PhD in Information Studies from Florida State University in 2015 and my Bachelor's and Master's desgrees in Library and Information Science from Pusan National University, Korea, in 2003 and 2008, respectively.
