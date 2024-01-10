@@ -57,9 +57,9 @@ nav_order: 1
     Assistant Professor<br/>
     School of Information Studies (iSchool)<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
-    Northwest Quadrant Building D 2890
-    2025 E Newport Ave
-    Milwaukee, WI 53211
+    Northwest Quadrant Building D 2890<br/>
+    2025 E Newport Ave<br/>
+    Milwaukee, WI 53211<br/>
 <a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a><br/>
 <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a><br/>
 <a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
