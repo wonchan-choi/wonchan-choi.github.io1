@@ -58,7 +58,8 @@ nav_order: 1
     School of Information Studies (iSchool)<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
     Northwest Quadrant Building D 2890<br/>
-    2025 E Newport Ave, Milwaukee, WI 53211<br/>
+    2025 E Newport Ave<br/>
+    Milwaukee, WI 53211<br/>
 <a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i>wchoi@uwm.edu</a>&nbsp;&nbsp;&nbsp;<a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i>Google Scholar</a>
 </div>
 </div>
