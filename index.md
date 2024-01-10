@@ -57,8 +57,7 @@ nav_order: 1
     Assistant Professor<br/>
     School of Information Studies (iSchool)<br/>
     University of Wisconsin-Milwaukee (UWM)<br/>
-    Pronouns: He/Him<br/>
-<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a> | <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a> | <a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
+<a href="mailto:wchoi@uwm.edu"><i class="fas fa-envelope"></i> E-mail</a> <a href="https://scholar.google.com/citations?user=p5_1GbgAAAAJ&hl=en"><i class="fas fa-graduation-cap"></i> Google Scholar</a> <a href="https://www.researchgate.net/profile/Wonchan-Choi"><i class="fas fa-external-link-alt"></i> ResearchGate</a>
   </div>
 </div>
 
