@@ -18,4 +18,3 @@ This project aims to provide initial insights into (a) college students’ perce
 This project aims to collect preliminary data for the development of a new scale for measuring users’ web credibility perceptions based on the established guidelines for scale development and validation.
 - Funding: UWM Research Assistance Fund (September 2023–June 2024), $2,451
 - PI: Wonchan Choi
-
