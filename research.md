@@ -4,10 +4,13 @@ layout: default
 nav_order: 2
 ---
 # Research Projects
-## Universal Accessibility and Usability of Digital Libraries in the Mobile Environment: Developing Design Guidelines to Support Blind and Visually Impaired Users
-This project aims to create mobile digital library accessibility and usability guidelines to support blind and visually impaired users. [Project Website](https://sites.uwm.edu/bvi/imls-mobile/){: .label .label-green }
+## Universal Accessibility and Usability of Digital Libraries in the Mobile Environment: Developing Design Guidelines to Support Blind and Visually Impaired Users [Project Website](https://sites.uwm.edu/bvi/imls-mobile/){: .label .label-green }
+
+This project aims to create mobile digital library accessibility and usability guidelines to support blind and visually impaired users. 
 - Funding: [IMLS Leadership Grants for Libraries - Applied Research](https://www.imls.gov/grants/awarded/lg-252289-ols-22) (August 2023–July 2025), $695,631 
 - PI: Iris Xie &#124; Co-PI: Wonchan Choi
+- [Project Website](https://sites.uwm.edu/bvi/imls-mobile/){: .label .label-green }
+
 
 ## Rethinking Digital Literacy in the Age of Generative AI: College Students’ Use of ChatGPT for Educational Purposes
 This project aims to provide initial insights into (a) college students’ perceptions and mental models of generative AI tools, such as ChatGPT; (b) motivations and use cases of these tools for academic purposes; (c) practices and strategies for evaluating the quality and credibility of information returned by AI-empowered tools; (d) challenges and issues with such tools; and (e) need for support at the instructor, school, and university levels.
