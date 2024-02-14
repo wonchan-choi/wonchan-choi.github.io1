@@ -9,7 +9,6 @@ nav_order: 2
 This project aims to create mobile digital library accessibility and usability guidelines to support blind and visually impaired users. 
 - Funding: [IMLS Leadership Grants for Libraries - Applied Research](https://www.imls.gov/grants/awarded/lg-252289-ols-22) (August 2023–July 2025), $695,631 
 - PI: Iris Xie &#124; Co-PI: Wonchan Choi
-- [Project Website](https://sites.uwm.edu/bvi/imls-mobile/){: .label .label-green }
 
 
 ## Rethinking Digital Literacy in the Age of Generative AI: College Students’ Use of ChatGPT for Educational Purposes
