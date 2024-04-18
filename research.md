@@ -3,7 +3,7 @@ title: Research
 layout: default
 nav_order: 2
 ---
-# Current Projects
+# Research Projects
 ## Universal Accessibility and Usability of Digital Libraries in the Mobile Environment: Developing Design Guidelines to Support Blind and Visually Impaired Users [Project Website](https://sites.uwm.edu/bvi/imls-mobile/){: .label .label-green }
 
 This project aims to create mobile digital library accessibility and usability guidelines to support blind and visually impaired users. 
