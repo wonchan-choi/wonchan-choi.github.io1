@@ -12,10 +12,10 @@ This project aims to create mobile digital library accessibility and usability g
 
 ## Rethinking Digital Literacy in the Age of Generative AI: College Students’ Use of ChatGPT for Educational Purposes
 This project aims to provide initial insights into college students’ perceptions and mental models of generative AI tools, such as ChatGPT; motivations and use cases of these tools for academic purposes; practices and strategies for evaluating the quality and credibility of information returned by AI-empowered tools; challenges and issues with such tools; and need for support at the instructor, school, and university levels.
-- Funding: [UWM CCEP Research Seed Funding Awards](https://uwm.edu/community-engagement-professions/ccep-announces-research-seed-funding-awards/) (July 2023–June 2024), $6,000
+- Funding: [2023 UWM CCEP Research Seed Funding Awards](https://uwm.edu/community-engagement-professions/ccep-announces-research-seed-funding-awards/) (July 2023–June 2024), $6,000
 - PIs: Wonchan Choi, Yan Zhang, Besiki Stvilia
 
 ## Developing a Scale for Credibility Assessment on Interactive Web Platforms
 This project aims to collect preliminary data for the development of a new scale for measuring users’ web credibility perceptions based on the established guidelines for scale development and validation.
-- Funding: UWM Research Assistance Fund (September 2023–June 2024), $2,451
+- Funding: 2023 UWM Research Assistance Fund (September 2023–June 2024), $2,451
 - PI: Wonchan Choi
