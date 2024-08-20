@@ -70,7 +70,7 @@ I am an associate professor at the UWM iSchool. My research program involves stu
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
 ## News 
-[(See All)](https://wonchan-choi.github.io/news.html)
+#[(See All)](https://wonchan-choi.github.io/news.html)
 - [2024-08-20] Our paper "Help-seeking Situations Related to Visual Interactions on Mobile Platforms and Recommended Designs for Blind and Visually Impaired Users" is accepted for publication in the <i>[Journal of Imaging](https://www.mdpi.com/journal/jimaging)</i>.
 - [2024-08-19] Promoted to Associate Professor.
 - [2024-07-01] Two posters are accepted for the [2024 Annual Meeting of ASIST](https://www.asist.org/am24/) in Calgary, Canada: (1) Reflective and Formative Indicators of Information Credibility on Social Media; (2) College Students’ Metaphors for ChatGPT: An Exploratory Study.
