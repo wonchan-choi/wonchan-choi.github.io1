@@ -70,6 +70,7 @@ I am an associate professor at the UWM iSchool. My research program involves stu
 - Usability and accessibility of information retrieval systems for disadvantaged user groups
 
 ## News 
+
 | Date             | News                                        | 
 |:-----------------|:--------------------------------------------|
 | 2024-08-20       | Our paper "Help-seeking Situations Related to Visual Interactions on Mobile Platforms and Recommended Designs for Blind and Visually Impaired Users" is accepted for publication in the <i>[Journal of Imaging](https://www.mdpi.com/journal/jimaging)</i>. |
