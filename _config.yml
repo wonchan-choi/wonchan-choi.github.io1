@@ -9,9 +9,7 @@ theme: just-the-docs
 
 color_scheme: foo
 
-footer_content: "&copy; 2024 Wonchan Choi" {% if page.last_modified_at %}
-    <p>Last updated on: {{ page.last_modified_at | date: "%b %e %Y at %I:%M %p" }}</p>
-  {% endif %}
+footer_content: "&copy; 2024 Wonchan Choi" 
 last_edit_timestamp: true
 last_edit_time_format: "%b %e %Y at %I:%M %p" 
 
