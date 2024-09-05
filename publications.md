@@ -5,6 +5,7 @@ nav_order: 3
 ---
 # Publications
 ## Journal Papers
+- Xie, I., **Choi, W.**, Wang, S., Lee, H. S., Hong, B. H., Wang, N. Cudjoe, E. K. (2024). Help-seeking situations related to visual interactions on mobile platforms and recommended designs for blind and visually impaired users. *Journal of Imaging, 10*(8). 205. [[Full-text]](https://doi.org/10.3390/jimaging10080205)
 - Zheng, Z., Oh, H., Mim, M., **Choi, W.**, & Lee, Y. (2023). An exploration of robot-mediated Tai Chi exercise for older adults. *Applied Sciences, 13*(9), 5306. [[Full-text]](https://www.mdpi.com/2076-3417/13/9/5306)
 - **Choi, W.**, Stvilia, B. & Lee, H. S. (2023). Developing a platform-specific framework for web credibility assessment: A case of social Q&A sites. *Information Processing & Management, 60*(3), 103321. [[Full-text]](assets/pubs/2023-IPM-Preprint-WebCred.pdf)
 - **Choi, W.**, Kim, S. Y., and Luo, M. (2022). Design matters in web credibility assessment: Interactive design as a social validation tool for online health information seekers. *Asian Communication Research, 19*(3), 119–138. [[Full-text]](https://acr.comm.or.kr/xml/35042/35042.pdf)
