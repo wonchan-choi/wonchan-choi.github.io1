@@ -26,6 +26,7 @@ nav_order: 3
 - Chang, D. H., & **Choi, W.** (2008). Trends in integrated electronic resource management in academic libraries. *Journal of the Korean Society for Library and Information Science, 42*(4), 201–221. [[Full-text]](http://koreascience.or.kr/article/JAKO200815541062975.pdf)
 
 ## Conference Papers & Posters
+- **Choi, W.**, Zhu, L., & Lee, H. S. (2024). Reflective and formative indicators of information credibility on social media. 
 - **Choi, W.**, Zhang, Y., & Stvilia, B. (2023). Exploring applications and user experience with generative AI tools: A content analysis of reddit posts on ChatGPT. *Proceedings of the Association for Information Science and Technology, 60*(1), 543–546. [[Full-text]](assets/pubs/2023-ASIST-ShortPaper-Preprint-ChatGPT.pdf) [[Slides]](assets/pubs/2023-ASIST-ShortPaper.pdf)
 - **Choi, W.**, & Zhu, L. (2023). Preliminary findings on developing a scale for credibility assessment on interactive web platforms. *Proceedings of the Association for Information Science and Technology, 60*(1), 929–931. [[Full-text]](assets/pubs/2023-ASIST-Poster-Credibility-Scale-Dev.pdf)  [[Poster]](assets/pubs/2023-ASIST-Poster-Scale-Dev.pdf) 
 - Lee, H. S., & **Choi, W.** (2023). Developing a theoretical framework for web credibility assessment on social Q&A sites: Preliminary findings. *iConference 2023.* [[Full-text]](assets/pubs/2023-iConference-Abstract.pdf) [[Poster]](assets/pubs/2023-iConference-Poster.pdf) 
